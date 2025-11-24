@@ -85,21 +85,21 @@ export LANGCHAIN_PROJECT="moviebot"
 
 ## 🧪 Screenshots
 **Multi Model Selection**
-![Screenshot 1](screenshots/screenshot5.png)
+![Screenshot 1](screenshots/ScreenShot5.png)
 *Select any existing ollama downloaded ollama model*
 
 **Retriving answers based on PDF context**
-![Screenshot 2](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/ScreenShot1.png)
 *+ve flow of retriving output from pdf context with mistral:latest*
 
 **Tracing langchain invoke calls**
-![Screenshot 3](screenshots/screenshot2.png)
+![Screenshot 3](screenshots/ScreenShot2.png)
 *LangChain trace of a QA chain using Mistral and Chroma vectorstore, built with StuffDocumentsChain and LLMChain. Shows prompt structure, input/output flow, and document retrieval setup.*
 
-![Screenshot 4](screenshots/screenshot3.png)
+![Screenshot 4](screenshots/Screenshot3.png)
 *LangChain trace of a QA agent answering 'Who directed Shawshank Redemption?' using Chroma retrieval and Mistral.*
 
-![Screenshot 5](screenshots/screenshot4.png)
+![Screenshot 5](screenshots/ScreenShot4.png)
 *-ve flow of retriving output from pdf context with mistral:latest*
 
 ---
